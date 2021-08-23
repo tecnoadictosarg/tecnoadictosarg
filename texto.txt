@@ -1,0 +1,10 @@
+
+show history:
+
+ 513  ls -lha
+  514  nano README.md
+  515  cat README.md
+  516  git push "https://github.com/tecnoadictosarg/tecnoadictosarg.git"
+  517  ls -lha
+  518  cat README.md
+  519  history
